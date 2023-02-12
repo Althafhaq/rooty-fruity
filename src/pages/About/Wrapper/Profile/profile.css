@@ -1,0 +1,22 @@
+.profile-image {
+    border: 1px;
+    width: 16rem;
+    height: 16rem;
+}
+
+.profile-container {
+    /* background: white; */
+    border-style: solid;
+    border-width: 3px;
+}
+
+.profile-card {
+    display: flex;
+    gap: 4rem;
+    margin-top: 1rem;
+
+}
+
+td {
+    padding: 0.707rem;
+}

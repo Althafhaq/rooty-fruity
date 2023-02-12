@@ -1,0 +1,14 @@
+.leftcard {
+    display: flex;
+    flex-direction: column;
+    padding-left: 3rem;
+}
+
+.title {
+    font-size: 50px;
+    max-width: 330px;
+}
+
+.card_item {
+    margin-top: 2rem;
+}
